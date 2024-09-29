@@ -1,7 +1,11 @@
+# Los modulos estan guardados en el mismo repo de github
+
 from funciones_paquete.d1.funciones_modulo1 import *
 # import listas_personas as ls
 from paquete_ejs.funciones_listas import * 
 from paquete_ejs.funciones_listas import *
+
+
 # 1
 
 # def NombreLista()-> list:
