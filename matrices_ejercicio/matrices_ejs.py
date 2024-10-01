@@ -47,14 +47,6 @@ while seguir == 's':
 
 
 
-    
-
-# fila_elegida = int(input('Elija una fila (1 a 3): '))
-# fila_elegida = int(ValidacionList([1, 2, 3], fila_elegida))
-# columna_elegida = int(input('Elija una columna (1 a 5): '))
-# columna_elegida = int(ValidacionList([1, 2, 3, 4, 5], columna_elegida))
-
-# print(almacen_matriz[fila_elegida - 1][columna_elegida - 1])
 
 
 
